@@ -1,0 +1,7 @@
+PyQt5
+whisper
+python-docx
+fpdf
+transformers
+exceptions
+dotenv
